@@ -17,4 +17,7 @@ $req->execute(array(
     'email' => $email
 ));
 
+
     ?>
+    <p>Your account <?php echo $_POST['pseudo']; ?> has been created !</p>
+    <a href="connexion.php">Click here to login</a>

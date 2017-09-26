@@ -10,5 +10,6 @@
 <form action="inscription.php" method="post">
     <input type="text" name="username" placeholder="Username"><br>
     <input type="text" name="pass" placeholder="Password"><br>
+    <input type="submit" value="Login">
 </body>
 </html>
